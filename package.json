@@ -1,0 +1,25 @@
+{
+  "name": "atividade-caixeta-aula3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavoh100/atividade-Caixeta-aula3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gustavoh100/atividade-Caixeta-aula3/issues"
+  },
+  "homepage": "https://github.com/Gustavoh100/atividade-Caixeta-aula3#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
